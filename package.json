@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sondong-test-npm": "~1.4.0"
+    "sondong-test-npm": "~1.2.0"
   }
 }
